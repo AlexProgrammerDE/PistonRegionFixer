@@ -1,0 +1,24 @@
+{
+  "name": "piston-serverdata-fixer",
+  "version": "1.0.0",
+  "description": "Goes through all playerdata and removes all unwanted items/blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "serverdatafixer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexProgrammerDE/piston-serverdata-fixer.git"
+  },
+  "keywords": [
+    "nbt",
+    "minecraft",
+    "exploits"
+  ],
+  "author": "AlexProgrammerDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexProgrammerDE/piston-serverdata-fixer/issues"
+  },
+  "homepage": "https://github.com/AlexProgrammerDE/piston-serverdata-fixer#readme"
+}
